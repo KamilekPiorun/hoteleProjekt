@@ -1,0 +1,3 @@
+hotelarstwo_core_homepage:
+    path:     /
+    defaults: { _controller: HotelarstwoCoreBundle:Default:index }

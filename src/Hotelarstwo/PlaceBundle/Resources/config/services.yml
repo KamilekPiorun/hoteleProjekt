@@ -1,0 +1,4 @@
+services:
+#    hotelarstwo_place.example:
+#        class: Hotelarstwo\PlaceBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
